@@ -1,6 +1,6 @@
 # Hi, I'm Fernando 👋
 
-AI Developer at **Untangle** (Spain). I build LLM agents, RAG pipelines and evaluations, and I'm learning how to break them.
+AI Developer at **Untangle** (Spain). I build AI agents and automations for real business processes, connect LLMs to company tools through MCP, and explore how AI systems break.
 
 🔨 Currently building **[PromptStrike](https://github.com/Fernanditokitkatgr/promptstrike)**, an open-source vulnerability scanner for LLM apps (prompt injection and jailbreaks).
 
